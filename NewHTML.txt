@@ -1,0 +1,13 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;>  <head>  <meta charset=&quot;UTF-8&quot; />  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; />  <title>Termo Glob</title>  <link rel=&quot;stylesheet&quot; href=&quot;/style.css&quot; />  <link  href=&quot;https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap&quot;  rel=&quot;stylesheet&quot;  />  </head>  <body>  <header>  <div class=&quot;logo&quot;>Termo Glob</div>  <nav>  <a href=&quot;#about&quot;>About</a>  <a href=&quot;#services&quot;>Services</a>  <a href=&quot;#projects&quot;>Projects</a>  <a href=&quot;#contact&quot;>Contact</a>  </nav>  </header></p>
+
+<p> <section class=&quot;hero&quot;>  <h1>Termo Glob</h1>  <p>HVAC Projects | CAD Expertise | Engineering Solutions</p>  </section></p>
+
+<p> <section id=&quot;about&quot; class=&quot;section&quot;>  <h2>About Us</h2>  <p>  Termo Glob has completed 1000+ HVAC projects and over 500 CAD drawings. Our mission is to deliver innovative engineering services with accuracy and quality. </p>  </section></p>
+
+<p> <section id=&quot;services&quot; class=&quot;section&quot;>  <h2>Our Services</h2>  <ul>  <li>Heating and Cooling Systems</li>  <li>CAD Design and Drafting</li>  <li>Energy Efficiency Consulting</li>  <li>Project Supervision</li>  </ul>  </section></p>
+
+<p> <section id=&quot;projects&quot; class=&quot;section&quot;>  <h2>Featured Projects</h2>  <p>We&rsquo;ve proudly delivered HVAC systems for residential, commercial, and industrial clients across Kosovo.</p>  </section></p>
+
+<p> <section id=&quot;contact&quot; class=&quot;section&quot;>  <h2>Contact Us</h2>  <p>Email: info@termoglob.net</p>  <p>Phone: +383 44 239 177</p>  <p>Location: Bregu i Diellit II, Prishtina, Kosovo</p>  </section></p>
+
+<p> <footer>  <p>&amp;copy; 2025 Termo Glob. All rights reserved.</p>  </footer>  </body> </html></p>
